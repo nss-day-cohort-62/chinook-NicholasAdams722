@@ -1,1 +1,3 @@
-SELECT FirstName, LastName, In
+SELECT *
+FROM Employee
+WHERE Title = 'Sales Support Agent'
